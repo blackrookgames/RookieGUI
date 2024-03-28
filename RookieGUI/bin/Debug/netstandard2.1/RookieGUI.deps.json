@@ -9,11 +9,21 @@
     ".NETStandard,Version=v2.1/": {
       "RookieGUI/1.0.0": {
         "dependencies": {
+          "Unity.InputSystem": "1.4.4.0",
           "UnityEditor.CoreModule": "0.0.0.0",
-          "UnityEditor": "0.0.0.0"
+          "UnityEditor": "0.0.0.0",
+          "UnityEngine.UI": "1.0.0.0"
         },
         "runtime": {
           "RookieGUI.dll": {}
+        }
+      },
+      "Unity.InputSystem/1.4.4.0": {
+        "runtime": {
+          "Unity.InputSystem.dll": {
+            "assemblyVersion": "1.4.4.0",
+            "fileVersion": "1.4.4.0"
+          }
         }
       },
       "UnityEditor.CoreModule/0.0.0.0": {
@@ -29,6 +39,14 @@
           "UnityEditor.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "UnityEngine.UI/1.0.0.0": {
+        "runtime": {
+          "UnityEngine.UI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -152,12 +170,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Unity.InputSystem/1.4.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "UnityEditor.CoreModule/0.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
     "UnityEditor/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEngine.UI/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
