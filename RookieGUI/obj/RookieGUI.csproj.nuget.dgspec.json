@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zac21\\BlackRookGames\\UnityLibs\\RookieGUI\\RookieGUI\\RookieGUI.csproj": {}
+    "C:\\Users\\zac21\\BlackRookGames\\UnityModules\\RookieGUI\\RookieGUI\\RookieGUI\\RookieGUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zac21\\BlackRookGames\\UnityLibs\\RookieGUI\\RookieGUI\\RookieGUI.csproj": {
+    "C:\\Users\\zac21\\BlackRookGames\\UnityModules\\RookieGUI\\RookieGUI\\RookieGUI\\RookieGUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zac21\\BlackRookGames\\UnityLibs\\RookieGUI\\RookieGUI\\RookieGUI.csproj",
+        "projectUniqueName": "C:\\Users\\zac21\\BlackRookGames\\UnityModules\\RookieGUI\\RookieGUI\\RookieGUI\\RookieGUI.csproj",
         "projectName": "RookieGUI",
-        "projectPath": "C:\\Users\\zac21\\BlackRookGames\\UnityLibs\\RookieGUI\\RookieGUI\\RookieGUI.csproj",
+        "projectPath": "C:\\Users\\zac21\\BlackRookGames\\UnityModules\\RookieGUI\\RookieGUI\\RookieGUI\\RookieGUI.csproj",
         "packagesPath": "C:\\Users\\zac21\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zac21\\BlackRookGames\\UnityLibs\\RookieGUI\\RookieGUI\\obj\\",
+        "outputPath": "C:\\Users\\zac21\\BlackRookGames\\UnityModules\\RookieGUI\\RookieGUI\\RookieGUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zac21\\AppData\\Roaming\\NuGet\\NuGet.Config",
